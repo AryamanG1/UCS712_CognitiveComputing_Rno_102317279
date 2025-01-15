@@ -71,9 +71,9 @@ print(f'Minimum is = {min}')
 print(myFirstTuple.count(min));
 
 # WAP to reverse a tuple and return it as a list
-ans =  list(myFirstTuple)
-ans.reverse()
-print(ans)
+ans =  myFirstTuple[::-1]
+ans_list = list(ans)
+print(ans_list)
 
 # WAP to find element and its first occurence in list
 
