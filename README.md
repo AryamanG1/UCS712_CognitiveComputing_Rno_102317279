@@ -1,4 +1,4 @@
-# Cognitive Computing Lab Assignments (UCS712)
+# Cognitive Computing Lab Assignments (UCS420)
 
 ## Submitted by:
 - **Name:** `Aryaman Gudwani`  
@@ -9,6 +9,7 @@
 1. Assignment 1  
 2. Assignment 2 
 3. Assignment 3 
+4. Assignment 4
 
 
 ### Notes:
