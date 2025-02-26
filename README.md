@@ -12,8 +12,9 @@
 4. Assignment 4
 5. Assignment 5
 6. Assignment 6
+7. Assignment 7
 
 
 ### Notes:
 - This repository contains all the work submitted as part of the Cognitive Computing lab.
-- Each assignment has been done as per the time schedule provided up until this point.
+- Each assignment has been done as per the time schedule provided up until this point except for Assignment 7
