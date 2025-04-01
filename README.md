@@ -13,6 +13,7 @@
 5. Assignment 5
 6. Assignment 6
 7. Assignment 7
+8. Assignment 8
 
 
 ### Notes:
