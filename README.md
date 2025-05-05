@@ -14,6 +14,10 @@
 6. Assignment 6
 7. Assignment 7
 8. Assignment 8
+9. Assignment 9
+10. Assignment 10
+11. Assignment 11
+12. Assignment 12
 
 
 ### Notes:
